@@ -23,7 +23,7 @@
 define( 'DB_NAME', 'Group3' );
 
 /** Database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'ot' );
 
 /** Database password */
 define( 'DB_PASSWORD', '' );
